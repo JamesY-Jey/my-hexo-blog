@@ -228,6 +228,13 @@
 
   
   <url>
+    <loc>https://hami.whcvc.top/tags/Command/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hami.whcvc.top/tags/Links/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -236,13 +243,6 @@
   
   <url>
     <loc>https://hami.whcvc.top/tags/Test/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/Command/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -264,48 +264,6 @@
   
   <url>
     <loc>https://hami.whcvc.top/tags/SFWRTECH-3IT3/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/Oracle/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/SQL/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/%E6%8A%BD%E8%B1%A1%E6%95%B0%E6%8D%AE%E7%B1%BB/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/Stack/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/Queue/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -340,35 +298,28 @@
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/tags/2048/</loc>
+    <loc>https://hami.whcvc.top/tags/Oracle/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/tags/JavaScript/</loc>
+    <loc>https://hami.whcvc.top/tags/SQL/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/tags/old-blog/</loc>
+    <loc>https://hami.whcvc.top/tags/Stack/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/tags/diary/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hami.whcvc.top/tags/Mustom/</loc>
+    <loc>https://hami.whcvc.top/tags/Queue/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -389,7 +340,56 @@
   </url>
   
   <url>
+    <loc>https://hami.whcvc.top/tags/Mustom/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hami.whcvc.top/tags/old-blog/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hami.whcvc.top/tags/diary/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hami.whcvc.top/tags/%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hami.whcvc.top/tags/%E6%8A%BD%E8%B1%A1%E6%95%B0%E6%8D%AE%E7%B1%BB/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hami.whcvc.top/tags/Big-O/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hami.whcvc.top/tags/2048/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hami.whcvc.top/tags/JavaScript/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -403,6 +403,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://hami.whcvc.top/categories/Hexo/</loc>
+    <lastmod>2021-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://hami.whcvc.top/categories/Note/</loc>
@@ -419,13 +426,6 @@
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/categories/Hexo/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hami.whcvc.top/categories/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -433,14 +433,14 @@
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/categories/Lab/</loc>
+    <loc>https://hami.whcvc.top/categories/Markdown/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hami.whcvc.top/categories/Markdown/</loc>
+    <loc>https://hami.whcvc.top/categories/Lab/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
