@@ -1,5 +1,6 @@
 .DS_Store
 .vscode
+.deploy_git
 Thumbs.db
 db.json
 *.log
