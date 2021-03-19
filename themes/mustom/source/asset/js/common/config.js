@@ -1,18 +1,15 @@
 import storage from "./storage.js";
-
-const isMobile = /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i.test(window.navigator.userAgent);
-
-const isChinese = /^(zh)/i.test(window.navigator.browserLanguage || window.navigator.language || 'zh');
+import $config from "../$config.js";
 
 const config = Object.assign({
-  closeDrawer: isMobile,
-  closeAside: false,
-  skin: 'default',
-  langshift: !isChinese,
-  night: false,
-  transfigure: false,
-  lyride: true,
-  autoplay: false
+  closeDrawer: $config.isMobile,
+  closeAside: $config.closeAside,
+  skin: $config.skin,
+  langshift: $config.langshift,
+  night: $config.night,
+  transfigure: $config.transfigure,
+  lyride: $config.lyride,
+  autoplay: $config.autoplay
 }, storage.get('config'));
 
 const get = key => {

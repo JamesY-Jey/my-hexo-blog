@@ -42,15 +42,15 @@ import adframe from "./part/adframe.js";
 import empty from "./part/empty.js";
 import notification from "./part/notification.js";
 import iconlib from "./part/iconlib.js";
+import $config from "./$config.js";
 
+/* 初始化执行播放器和评论组件js */
 _run_APlayer();
 _run_AV();
 _run_Valine();
 
-const lock_wait = 600;
-
+const lock_wait = 600; // 定时器时间
 const history = window.history;
-
 const navigator = window.navigator;
 
 const registerServiceWorker = swPath => {
@@ -75,7 +75,7 @@ const noCanvas = {
   value: (o => {
     let v = storage.get('noCanvas');
     if (v === null) {
-      return true; // default
+      return $config.noCanvas; // default
     }
     return v;
   })(),

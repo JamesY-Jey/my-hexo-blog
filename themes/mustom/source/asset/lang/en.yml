@@ -1,7 +1,7 @@
-sitename: Mark の Personal Website
+sitename: Hami の Personal Website
 brand:
-  name: jinyaoMa
-  slogan: "&quot;I just wanna note silently&quot;"
+  name: JamesYao
+  slogan: "&quot;Life, it's all new renascence everyday&quot;<br/>How to live, it's up to yourself."
   posts: Count of Posts
   categories: Count of Categories
   tags: Count of Tags
@@ -45,6 +45,7 @@ footer:
   powered: Powered by %s
   theme: Theme %s By %s
   license: Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International license
+  ICP: 鄂ICP备2020021430号
 panels:
   categories: CATEGORIES
   tags: TAGS

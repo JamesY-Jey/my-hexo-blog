@@ -4,6 +4,13 @@ theme:
   url: //github.com/jinyaoMa/hexo-theme-mustom
   author: jinyaoMa
   link: /
+ICP:
+  name: 鄂ICP备2020021430号
+  url: https://beian.miit.gov.cn
+ISS:
+  name: 鄂公网安备 42010602004487号
+  url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010602004487
+  image: /asset/img/beian.png
 license:
   url: //creativecommons.org/licenses/by-nc-sa/4.0/
   image: /asset/img/by-nc-sa.svg
@@ -20,11 +27,11 @@ author:
   large: /asset/img/author.large.png
 hitokoto:
   icon: '<i class="fas fa-circle-notch fa-fw"></i>'
-  image: /asset/img/qf3cu.huaji.png
+  image: /asset/img/qf3cu.png
   api: //v1.hitokoto.cn
   type: i # https://developer.hitokoto.cn/sentence/#请求参数
   content: 感谢一言网(Hitokoto.cn)提供一句话服务
-  name: jinyaoMa
+  name: JamesYao
 brand:
   icons:
     posts: '<i class="fas fa-archive fa-fw"></i>'
@@ -46,14 +53,17 @@ pather:
   icon: '<i class="fas fa-home fa-fw"></i>'
 contact:
   github:
-    url: //github.com/jinyaoMa
+    url: //github.com/JamesY-Jey
     icon: '<i class="fab fa-github fa-fw"></i>'
   email:
-    url: mailto://jinyao.ma@outlook.com
+    url: mailto://jr_yaozhijie@163.com
     icon: '<i class="fas fa-envelope fa-fw"></i>'
   qq:
-    url: tencent://Message/?uin=907881445
+    url: tencent://Message/?uin=754433989
     icon: '<i class="fab fa-qq fa-fw"></i>'
+  weibo:
+    url: https://weibo.com/u/2860420102
+    icon: '<i class="fab fa-weibo fa-fw"></i>'
 menuicons:
   main: '<i class="fas fa-sitemap fa-fw"></i>'
   job: '<i class="fas fa-briefcase fa-fw"></i>'
@@ -173,8 +183,8 @@ xcanvas:
     close: '<i class="fas fa-video-slash"></i>'
 manifest:
   path: /manifest.json
-  name: ma-jinyao.cn
-  short_name: jinyaoMa
+  name: hami.whcvc.top
+  short_name: JamesYao
   icons:
     - src: /asset/img/android-chrome-192x192.png
       sizes: 192x192

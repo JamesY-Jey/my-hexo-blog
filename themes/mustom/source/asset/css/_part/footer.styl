@@ -24,6 +24,15 @@
     padding-bottom s('calc(20vh + %s)', $font_size * 2)
     border-top $gap * 0.5 solid var(--color-clear)
 
+.p-footer-flex
+  display flex
+  justify-content center
+  div
+    margin 0 10px;
+  @media (max-width $app_mobile_width) {
+    flex-wrap wrap
+  }
+
 .p-footer-powered, .p-footer-theme
   @media (min-width: $app_mobile_width_min)
     a
@@ -43,11 +52,10 @@
 .p-footer-license
   font-size $font_size * 2
   line-height 1
-  padding-top $gap
   a
     display inline-block
     img
-      height $font_size * 2
+      height $font_size * 1.5
 
 :root.lyride
   .p-footer
